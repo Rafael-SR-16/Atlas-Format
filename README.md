@@ -25,3 +25,11 @@
 5. Recomended normalize counts to CP10K for single-cell transcriptomics.
 6. Use only two decimal places for counts.
 7. For counts equal to 0, avoid additional characters (e.g., use "0" instead of "0.00"). This will help improve performance on the virtual machine.
+
+## AnnData reference:
+
+anndata: Annotated data
+
+Isaac Virshup, Sergei Rybakov, Fabian J. Theis, Philipp Angerer, F. Alexander Wolf
+
+JOSS 2024 Sep 16. doi: 10.21105/joss.04371.
