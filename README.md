@@ -13,7 +13,6 @@
 - Seurat
 - Loom 
 - HDF5 / H5
-- AnnData / H5AD
 - MTX 
 - TSV / CSV (Text format)
 
