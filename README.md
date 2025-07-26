@@ -5,6 +5,7 @@
 2. Follow the instructions to store your data in AnnData format.
 3. Conversion to AnnData is necessary to obtain the atlas format in this code.
 4. An example table of the final data is shown.
+5. Use "." as decimal separator.
 
 ### Conversion to AnnData available from:
 
