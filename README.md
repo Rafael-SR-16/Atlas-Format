@@ -34,4 +34,6 @@ Isaac Virshup, Sergei Rybakov, Fabian J. Theis, Philipp Angerer, F. Alexander Wo
 
 JOSS 2024 Sep 16. doi: 10.21105/joss.04371.
 
-Note: Some parts of the code have been suggested by AI (ChatGTP and DeepSeek).
+###### Note: 
+
+Some parts of the code have been suggested by AI (ChatGTP and DeepSeek).
